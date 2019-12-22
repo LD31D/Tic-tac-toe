@@ -1,2 +1,2 @@
-# console_Tic-tac-toe
+# console-Tic-tac-toe
 Tic tac toe on python
